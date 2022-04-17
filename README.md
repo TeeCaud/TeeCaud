@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports, technology, and nature
 - 🌱 I’m currently learning backend web development
 - 💞️ I’m looking to collaborate on coding, networking, and team building
-- 📫 You can reach me at teecaud@hotmail.com
+- 📫 You can reach me at tyler.caudill@outlook.com
 
 <!---
 TeeCaud/TeeCaud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
